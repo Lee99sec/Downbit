@@ -1,4 +1,4 @@
-# 🪙 Downbit Exchange (Frontend)
+# 🪙 Downbit Exchange
 
 
 <p align="center">
